@@ -1,0 +1,23 @@
+CS121 Grade Report
+
+You are taking this course for a QUALITY grade.
+
+Programming Assignments
+PA 1: 91.0/100.0 * 8.57 = 7.80
+PA 2: 95.0/100.0 * 8.57 = 8.14
+PA 3: 100.0/100.0 * 8.57 = 8.57
+PA 4: 98.0/100.0 * 8.57 = 8.40
+PA 5: 85.5/100.0 * 8.57 = 7.33
+PA 6: Grade pending
+PA 7: Grade pending
+
+Average score over 5 PAs: 93.9
+
+
+Midterm: 91.5/100.00 * 20.00 = 18.30
+Final: pending
+
+
+Current: 58.54 points out of 62.85 points available (93.1%)
+
+If you choose to take this course pass/fail and you get your average PA score for PA #6 and PA #7, you would need a score of 8.5 on the final to pass.
